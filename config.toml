@@ -1,9 +1,8 @@
-baseurl = "cassandra-michael-wedding.site/"
+baseurl = "https://cassandra-michael-wedding.site/"
 languageCode = "en-us"
 title = "Cassandra & Michael Wedding"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
-publishDir = "docs"
 
 [params]
 
