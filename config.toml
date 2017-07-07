@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Cassandra & Michael Wedding"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
+publishDir = "docs"
 
 [params]
 
