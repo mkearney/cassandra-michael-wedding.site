@@ -1,0 +1,107 @@
+baseurl = "https://cassandra-michael-wedding.site/"
+languageCode = "en-us"
+title = "Cassandra & Michael Wedding"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Cassandra Bird and Michael Kearney"
+	description = "Wedding Website"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+	# Navigation
+	[params.navigation]
+		brand = "#CaKe"
+
+		[params.navigation.links]
+			about     = "Details"
+			services  = "Schedule"
+			portfolio = "Contact"
+			contact   = "Location"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Cassandra Bird <br>&<br>Michael Kearney"
+		subtitle   = "Our Wedding Website"
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "We've got details for you!"
+		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		buttonText  = "I'M READY NOW!"
+
+
+	# Service section
+	[params.services]
+		headline = "Schedule"
+
+        [[params.services.list]]
+            icon = "fa-camera"
+            title = "1:00pm Pictures"
+            description = "It will be short. And it will be sweet."
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "2:00 Ceremony"
+            description = "It will be short. And it will be sweet."
+
+        [[params.services.list]]
+            icon = "fa-heart"
+            title = "Up to Date"
+            description = "It will be short. And it will be sweet."
+
+        [[params.services.list]]
+            icon = "fa-paper-plane"
+            title = "!See ya!"
+            description = "It will be short. And it will be sweet."
+
+
+    	# Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Check out our Registry"
+
+		[params.aside.button]
+			text = "Link to Registry"
+			link = "http://www.lexus.com/models/categories/suvs?pdsrch=sem_google_lexus%20suv_e_193452519556&bknode=%7bcampaign%7d&gclid=CPmQz6j69tQCFWhYMgodCKsNfg&gclsrc=ds"
+
+	# Contact section
+	[params.contact]
+		headline = "Columbia, Missouri!"
+		description = "The wedding will take place at <a href=\"http://www.thetigerhotel.com/\">the Tiger Hotel</a>.<br><br>23 South 8th Street<br>Columbia, MO 65201<br>United States"
+		address = ""
+		phone = "573-875-8888"
+		email = "frontdesk@thetigerhotel.com"
+
+	 #Google Maps section
+	 [params.location]
+	 	latitude  = "38.9509"
+	 	longitude = "92.3288"
+	 	maps_api_key = ""

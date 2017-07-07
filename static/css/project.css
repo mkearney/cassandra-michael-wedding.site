@@ -1,0 +1,43 @@
+p {
+    font-size: 16px !important;
+}
+body {
+    background-color: #016 !important;
+}
+div#main article.active {
+    background-color: #000;
+    opacity: .9;
+    color: #fff;
+}
+
+body.is-article-visible img#main {
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 0 0;
+    opacity: 0.05;
+    filter: alpha(opacity=20); /* For IE8 and earlier */
+}
+img#main {
+    max-width: 80%;
+    margin: 10px auto;
+}
+div.inner p {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+footer p {
+    opacity: .25;
+}
+.active li {
+    font-size: 20px !important;
+}
+.active hi {
+    font-size: 30px !important;
+}
