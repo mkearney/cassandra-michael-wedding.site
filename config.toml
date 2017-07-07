@@ -1,4 +1,4 @@
-baseurl = "cassandra-michael-wedding.site/"
+baseurl = "http://cassandra-michael-wedding.site"
 languageCode = "en-us"
 title = "Cassandra & Michael Wedding"
 theme = "hugo-creative-theme"
