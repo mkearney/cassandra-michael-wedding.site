@@ -5,8 +5,7 @@ theme = "hugo-creative-theme"
 googleAnalytics = ""
 publishDir = "docs"
 
-[params]
-
+	[params]
 	# You can use Markdown syntax for urls [text](//url.to/source) for
 	# most longer texts.
 
@@ -31,31 +30,29 @@ publishDir = "docs"
 	[params.navigation]
 		brand = "#CaKe"
 
-		[params.navigation.links]
-			about     = "Details"
-			services  = "Schedule"
-			portfolio = "Contact"
-			contact   = "Location"
-
+	[params.navigation.links]
+		about     = "Details"
+		services  = "Schedule"
+		portfolio = "Contact"
+		contact   = "Location"
 
 	# Hero section
 	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		# To change the background of the hero section,
+		# replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Cassandra Bird <br>&<br>Michael Kearney"
 		subtitle   = "Our Wedding Website"
 		buttonText = "Find out more"
 
-
 	# About section
 	[params.about]
 		headline    = "We've got details for you!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		description = "We're getting married on March 24th, 2018 in Columbia, Missouri. The wedding and reception will take place in the Tiger Hotel, which is right in the middle of \"downtown\" Columbia."
 		buttonText  = "I'M READY NOW!"
-
 
 	# Service section
 	[params.services]
-		headline = "Schedule"
+	    headline = "Schedule"
 
         [[params.services.list]]
             icon = "fa-camera"
@@ -69,7 +66,7 @@ publishDir = "docs"
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Up to Date"
+            title = "Probably board games"
             description = "It will be short. And it will be sweet."
 
         [[params.services.list]]
@@ -79,11 +76,11 @@ publishDir = "docs"
 
 
     	# Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
+	#[params.portfolio.modal]
+        #client = "Client"
+        #date = "Date"
+        #category = "Category"
+        #buttonText = "Close"
 
     # Aside section
 	[params.aside]
@@ -101,8 +98,8 @@ publishDir = "docs"
 		phone = "573-875-8888"
 		email = "frontdesk@thetigerhotel.com"
 
-	 #Google Maps section
-	 #[params.location]
-	# 	latitude  = "38.9509"
-	# 	longitude = "92.3288"
-	 #	maps_api_key = ""
+	 # Google Maps section
+	 [params.location]
+	 	latitude  = "38.9509"
+	 	longitude = "92.3288"
+		maps_api_key = ""

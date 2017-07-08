@@ -113,7 +113,7 @@
                     <hr class="light">
                 
                 
-                    <p class="text-faded"><a href="//google.com">Lorem</a> ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!</p>
+                    <p class="text-faded">We&rsquo;re getting married on March 24th, 2018 in Columbia, Missouri. The wedding and reception will take place in the Tiger Hotel, which is right in the middle of &ldquo;downtown&rdquo; Columbia.</p>
                 
                 
                     <a href="#" class="btn btn-default btn-xl">I&#39;M READY NOW!</a>
@@ -164,7 +164,7 @@
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-heart wow bounceIn text-primary"></i>
-                    <h3>Up to Date</h3>
+                    <h3>Probably board games</h3>
                     
                         <p class="text-muted">It will be short. And it will be sweet.</p>
                     
@@ -190,7 +190,106 @@
         
 
         
+<div id="map"></div>
+    <script>
+      function initMap() {
+        var Tiger_Hotel = {lat: 38.9517053, lng: -92.3340724};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 14,
+          center: Tiger_Hotel,
+          styles: [
+            {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
+            {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
+            {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
+            {
+              featureType: 'administrative.locality',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#d59563'}]
+            },
+            {
+              featureType: 'poi',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#d59563'}]
+            },
+            {
+              featureType: 'poi.park',
+              elementType: 'geometry',
+              stylers: [{color: '#263c3f'}]
+            },
+            {
+              featureType: 'poi.park',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#6b9a76'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'geometry',
+              stylers: [{color: '#38414e'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'geometry.stroke',
+              stylers: [{color: '#212a37'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#9ca5b3'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry',
+              stylers: [{color: '#746855'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry.stroke',
+              stylers: [{color: '#1f2835'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#f3d19c'}]
+            },
+            {
+              featureType: 'transit',
+              elementType: 'geometry',
+              stylers: [{color: '#2f3948'}]
+            },
+            {
+              featureType: 'transit.station',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#d59563'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'geometry',
+              stylers: [{color: '#17263c'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#515c6d'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.stroke',
+              stylers: [{color: '#17263c'}]
+            }
+          ]
+        });
+        var marker = new google.maps.Marker({
+          position: Tiger_Hotel,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIPaQe-cU5zwYL7HJZ8MEwAHJgkUb_2mg&callback=initMap">
+    </script>
+    
 
+        
         
             <!-- ASIDE -->
 <aside class="bg-dark">
@@ -258,6 +357,10 @@
 <script src="http://cassandra-michael-wedding.site/js/jquery.easing.min.js"></script>
 <script src="http://cassandra-michael-wedding.site/js/jquery.fittext.js"></script>
 <script src="http://cassandra-michael-wedding.site/js/wow.min.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=&v=3.exp"></script>
+<script src="http://cassandra-michael-wedding.site/js/hpneo.gmaps.js"></script>
+<script src="http://cassandra-michael-wedding.site/js/gmaps.init.js"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="http://cassandra-michael-wedding.site/js/creative.js"></script>
