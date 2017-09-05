@@ -1,4 +1,4 @@
-baseurl = "http://cassandra-michael-wedding.site"
+baseurl = "http://cassandra-michael-wedding.site/"
 languageCode = "en-us"
 title = "Cassandra & Michael Wedding"
 theme = "hugo-creative-theme"
@@ -43,6 +43,7 @@ publishDir = "docs"
 		slogan     = "Cassandra Bird <br>&<br>Michael Kearney"
 		subtitle   = "Our Wedding Website"
 		buttonText = "Find out more"
+		buttonLink = "details.html"
 
 	# About section
 	[params.about]
