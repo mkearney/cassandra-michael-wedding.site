@@ -28,7 +28,7 @@ publishDir = "docs"
 
 	# Navigation
 	[params.navigation]
-		brand = "#CaKe"
+		brand = "#DoctorsKearney"
 
 	[params.navigation.links]
 		about     = "Details"
@@ -50,7 +50,16 @@ publishDir = "docs"
 		description = "We're getting married on March 24th, 2018 in Columbia, Missouri. The wedding and reception will take place in the Tiger Hotel, which is right in the middle of \"downtown\" Columbia."
 		buttonText  = "I'M READY NOW!"
 
-	# Service section
+
+
+    	# Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+# Service section
 	[params.services]
 	    headline = "Schedule"
 
@@ -74,21 +83,16 @@ publishDir = "docs"
             title = "!See ya!"
             description = "It will be short. And it will be sweet."
 
-
-    	# Portfolio modals
-	#[params.portfolio.modal]
-        #client = "Client"
-        #date = "Date"
-        #category = "Category"
-        #buttonText = "Close"
-
     # Aside section
 	[params.aside]
-		headline = "Check out our Registry"
+		headline = "Check out our Registries"
 
-		[params.aside.button]
-			text = "Link to Registry"
-			link = "http://www.lexus.com/models/categories/suvs?pdsrch=sem_google_lexus%20suv_e_193452519556&bknode=%7bcampaign%7d&gclid=CPmQz6j69tQCFWhYMgodCKsNfg&gclsrc=ds"
+		[params.aside.button1]
+			text = "Target"
+			link = "https://www.target.com/gift-registry/gift/Cassandra-Michael-Kearney"
+		[params.aside.button2]
+			text = "BBBeyond"
+			link = "https://www.bedbathandbeyond.com:443/store/giftregistry/view_registry_guest.jsp?registryId=544904368&eventType=Wedding&pwsurl="
 
 	# Contact section
 	[params.contact]
