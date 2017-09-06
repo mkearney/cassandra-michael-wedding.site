@@ -1,24 +1,21 @@
 ---
 title: "Details"
-date: 2017-09-05
+author: "Cassandra & Michael Wedding"
+date: March 24th
 draft: true
-output: 
-  html_document: 
-    css: ~/cassandra-michael-wedding.site/static/css/creative.css
-    highlight: null
-    keep_md: yes
-    theme: readable
+output:
+  prettydoc::html_pretty:
+    theme: leonids
 ---
+
 
 ### Wedding
 - Time: 5:00 PM
 - Day: Saturday, March 24, 2018
 - Attire: Semiformal
+- Adult reception
 
-### Ceremony and Reception
+### Venue
 - Where: The Tiger Hotel
 - Address: 23 S 8th St, Columbia, MO 65201
 - Phone: (573) 875-8888
-
-### Adult reception
-- Following the wedding ceremony

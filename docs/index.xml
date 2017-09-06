@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cassandra-michael-wedding.site/airlines/</guid>
-      <description>Airline Travel      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+      <description>Airline Travel   Airline Travel Cassandra &amp;amp; Michael Wedding March 24th    Airports St. Louis Lambert International Airport (STL)  Address: 10701 Lambert International Blvd, St. Louis, MO 63145 Website: https://www.flystl.com/ Info: The St. Louis Airport is approximately 111 miles (or 1 hour and 42 minutes) from the wedding venue. While there is a shuttle service to and from Columbia for a reasonable fare, we recommend renting a car for your convenience.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cassandra-michael-wedding.site/details/</guid>
-      <description>Details      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+      <description> Details   Details Cassandra &amp;amp; Michael Wedding March 24th    Wedding  Time: 5:00 PM Day: Saturday, March 24, 2018 Attire: Semiformal Adult reception   Venue  Where: The Tiger Hotel Address: 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888         (function () { var script = document.createElement(&#34;script&#34;); script.type = &#34;text/javascript&#34;; script.src = &#34;https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#34;; document.getElementsByTagName(&#34;head&#34;)[0].appendChild(script); })();    </description>
     </item>
     
     <item>
@@ -34,7 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cassandra-michael-wedding.site/food/</guid>
-      <description>Good Eats      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+      <description>Good Eats   Good Eats Cassandra &amp;amp; Michael Wedding March 24th    Restaurants and Good Eats Glenn’s Café  Address: 29 S 8th St, Columbia, MO 65201 Website: http://www.glennscafe.com/  Located in the Tiger Hotel, “familiar Cajun-Creole &amp;amp; American dishes are the draw at this local eatery with a relaxed atmosphere.” We love their Jambalaya!
+ Flat Branch Pub &amp;amp; Brewing  Address: 115 S 5th St, Columbia, MO 65201 Website: https://www.</description>
     </item>
     
     <item>
@@ -43,7 +44,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cassandra-michael-wedding.site/hotels/</guid>
-      <description>Hotels      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+      <description>Hotels   Hotels Cassandra &amp;amp; Michael Wedding March 24th     header { background-image: url(/Users/mwk/cassandra-michael-wedding.site/static/img/header2.jpeg) !important; }  The Tiger Hotel [Wedding Venue]  Address: 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888 Website: http://www.thetigerhotel.com/ Rate: Rooms at a discounted rate with our hotel block can be accessed by calling the above phone number and mentioning “Bird/Kearney Wedding”  Double– $182 a night King– $162 a night Must book by January 24, 2018 to receive discounted rate    The Broadway Columbia—DoubleTree by Hilton Hotel  Address: 1111 E Broadway, Columbia, MO 65201 Phone: (573) 875-7000 Website: http://doubletree3.</description>
     </item>
     
   </channel>
