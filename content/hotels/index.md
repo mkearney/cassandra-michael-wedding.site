@@ -5,7 +5,7 @@ date: March 24th
 draft: true
 output:
   prettydoc::html_pretty:
-    theme: leonids
+    theme: architect
 ---
 
 <style>

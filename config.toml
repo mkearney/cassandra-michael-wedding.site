@@ -32,8 +32,12 @@ publishDir = "docs"
 	# About section
 	[params.about]
 		headline    = "Details"
-		description = "The wedding will take place at 5pm (CST) on March 24, 2018, at the Tiger Hotel in Columbia, Missouri. For more information, click the button below."
-		buttonText  = "More info"
+		#description = "5pm (CST)<br>March 24, 2018<br>Tiger Hotel<br>Columbia, Missouri"
+		time = "5:00pm (CST)"
+		date = "March 24, 2018"
+		venue = "Tiger Hotel"
+		location = "Columbia, MO"
+		buttonText  = "More information"
 
     	# Portfolio modals
 	[params.portfolio.modal]
@@ -44,7 +48,7 @@ publishDir = "docs"
 
 	# Service section
 	[params.services]
-	    headline = "Schedule"
+	    headline = "Info"
 
         [[params.services.list]]
             icon = "fa-info"
@@ -72,7 +76,7 @@ publishDir = "docs"
 
     # Aside section
 	[params.aside]
-		headline = "Check out our Registries"
+		headline = "Wedding Registry Links"
 
 		[params.aside.button1]
 			text = "img/target.png"
