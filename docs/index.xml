@@ -6,23 +6,91 @@
     <description>Recent content on Cassandra &amp; Michael Wedding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 15:04:51 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cassandra-michael-wedding.site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Info</title>
-      <link>http://cassandra-michael-wedding.site/details/info/</link>
-      <pubDate>Tue, 05 Sep 2017 15:04:51 -0500</pubDate>
+      <title>Airline Travel</title>
+      <link>http://cassandra-michael-wedding.site/airlines/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cassandra-michael-wedding.site/details/info/</guid>
-      <description>Saturday, March 24, 2018 5:00 PM Attire: Semiformal
-Ceremony and Reception The Tiger Hotel 23 S 8th St, Columbia, MO 65201 (573) 875-8888
-Adult Reception
-Hotel Accommodations The Tiger Hotel [Wedding Venue] 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888 Website: http://www.thetigerhotel.com/
+      <guid>http://cassandra-michael-wedding.site/airlines/</guid>
+      <description>Airports St. Louis Lambert International Airport (STL) 10701 Lambert International Blvd, St. Louis, MO 63145 Website: https://www.flystl.com/
+The St. Louis Airport is approximately 111 miles (or 1 hour and 42 minutes) from the wedding venue. While there is a shuttle service to and from Columbia for a reasonable fare, we recommend renting a car for your convenience.
+Rental Cars from Lambert International Airport https://www.flystl.com/parking-and-transport/rental-cars
+Kansas City International Airport (MCI) Kansas City, MO 64153 Website: http://www.</description>
+    </item>
+    
+    <item>
+      <title>Details</title>
+      <link>http://cassandra-michael-wedding.site/details/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/details/</guid>
+      <description> Wedding  Time: 5:00 PM Day: Saturday, March 24, 2018 Attire: Semiformal  Ceremony and Reception  Where: The Tiger Hotel Address: 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888  Adult reception  Following the wedding ceremony  </description>
+    </item>
+    
+    <item>
+      <title>Good Eats</title>
+      <link>http://cassandra-michael-wedding.site/food/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/food/</guid>
+      <description>Restaurants and Good Eats Glenn’s Café 29 S 8th St, Columbia, MO 65201 Website: http://www.glennscafe.com/
+Located in the Tiger Hotel, “familiar Cajun-Creole &amp;amp; American dishes are the draw at this local eatery with a relaxed atmosphere.” We love their Jambalaya!
+Flat Branch Pub &amp;amp; Brewing 115 S 5th St, Columbia, MO 65201 Website: https://www.flatbranch.com/
+4-minute walk, this very popular destination is a “warehouse setting for house-brewed beer, a big selection of whiskey &amp;amp; upscale American pub fare.</description>
+    </item>
+    
+    <item>
+      <title>Hotels</title>
+      <link>http://cassandra-michael-wedding.site/hotels/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/hotels/</guid>
+      <description>Hotel Accommodations The Tiger Hotel [Wedding Venue] 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888 Website: http://www.thetigerhotel.com/
 Rooms at a discounted rate with our hotel block can be accessed by calling the above phone number and mentioning &amp;ldquo;Bird/Kearney Wedding&amp;rdquo;
-Double&amp;ndash; $182 a night King&amp;ndash; $162 a night</description>
+Double&amp;ndash; $182 a night King&amp;ndash; $162 a night
+Must book by January 24, 2018 to receive discounted rate
+The Broadway Columbia—DoubleTree by Hilton Hotel 1111 E Broadway, Columbia, MO 65201 Phone: (573) 875-7000 Website: http://doubletree3.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/airlines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/airlines/</guid>
+      <description>Airline Travel      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/details/</guid>
+      <description>Details      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/food/</guid>
+      <description>Good Eats      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/hotels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/hotels/</guid>
+      <description>Hotels      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
     </item>
     
   </channel>

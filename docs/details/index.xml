@@ -6,23 +6,27 @@
     <description>Recent content in Details on Cassandra &amp; Michael Wedding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 15:04:51 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cassandra-michael-wedding.site/details/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Info</title>
-      <link>http://cassandra-michael-wedding.site/details/info/</link>
-      <pubDate>Tue, 05 Sep 2017 15:04:51 -0500</pubDate>
+      <title>Details</title>
+      <link>http://cassandra-michael-wedding.site/details/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cassandra-michael-wedding.site/details/info/</guid>
-      <description>Saturday, March 24, 2018 5:00 PM Attire: Semiformal
-Ceremony and Reception The Tiger Hotel 23 S 8th St, Columbia, MO 65201 (573) 875-8888
-Adult Reception
-Hotel Accommodations The Tiger Hotel [Wedding Venue] 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888 Website: http://www.thetigerhotel.com/
-Rooms at a discounted rate with our hotel block can be accessed by calling the above phone number and mentioning &amp;ldquo;Bird/Kearney Wedding&amp;rdquo;
-Double&amp;ndash; $182 a night King&amp;ndash; $162 a night</description>
+      <guid>http://cassandra-michael-wedding.site/details/</guid>
+      <description> Wedding  Time: 5:00 PM Day: Saturday, March 24, 2018 Attire: Semiformal  Ceremony and Reception  Where: The Tiger Hotel Address: 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888  Adult reception  Following the wedding ceremony  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/details/</guid>
+      <description>Details      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
     </item>
     
   </channel>

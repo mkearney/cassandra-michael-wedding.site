@@ -1,4 +1,4 @@
-baseurl = "http://cassandra-michael-wedding.site/"
+baseurl = "http://cassandra-michael-wedding.site"
 languageCode = "en-us"
 title = "Cassandra & Michael Wedding"
 theme = "hugo-creative-theme"
@@ -6,20 +6,7 @@ googleAnalytics = ""
 publishDir = "docs"
 
 	[params]
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
-
-	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
-
-	# All projects of the portfolio are defined in their own files.
-	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
-	# folder into the 'data' directory at the root of this Hugo site.
-	# For more information take a look at the README.
-
-	# To provide some metadata for search engines feel free to add some
-	# information about you and your website.
+	# Some metadata
 	name = "Cassandra Bird and Michael Kearney"
 	description = "Wedding Website"
 
@@ -38,20 +25,15 @@ publishDir = "docs"
 
 	# Hero section
 	[params.hero]
-		# To change the background of the hero section,
-		# replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Cassandra Bird <br>&<br>Michael Kearney"
+		slogan     = "Cassandra Bird<br>&<br>Michael Kearney"
 		subtitle   = "Our Wedding Website"
-		buttonText = "Find out more"
-		buttonLink = "details.html"
+		buttonText = "Details"
 
 	# About section
 	[params.about]
-		headline    = "We've got details for you!"
-		description = "We're getting married on March 24th, 2018 in Columbia, Missouri. The wedding and reception will take place in the Tiger Hotel, which is right in the middle of \"downtown\" Columbia."
-		buttonText  = "I'M READY NOW!"
-
-
+		headline    = "Details"
+		description = "The wedding will take place at 5pm (CST) on March 24, 2018, at the Tiger Hotel in Columbia, Missouri. For more information, click the button below."
+		buttonText  = "More info"
 
     	# Portfolio modals
 	[params.portfolio.modal]
@@ -60,29 +42,34 @@ publishDir = "docs"
         category = "Category"
         buttonText = "Close"
 
-# Service section
+	# Service section
 	[params.services]
 	    headline = "Schedule"
 
-        [[params.services.list]]
-            icon = "fa-camera"
-            title = "1:00pm Pictures"
-            description = "It will be short. And it will be sweet."
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "2:00 Ceremony"
-            description = "It will be short. And it will be sweet."
+            icon = "fa-info"
+            title = "Details"
+            description = "Date, time, and location details."
+	    link = "details"
+	    
+        [[params.services.list]]
+            icon = "fa-hotel"
+            title = "Hotels"
+            description = "Hotel options and other lodging information in the Columbia area."
+	    link = "hotels"
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Probably board games"
-            description = "It will be short. And it will be sweet."
+            icon = "fa-plane"
+            title = "Airlines"
+            description = "Airline options (i.e., Columbia, Kansas City, St. Lous)"
+	    link = "airlines"
 
         [[params.services.list]]
-            icon = "fa-paper-plane"
-            title = "!See ya!"
-            description = "It will be short. And it will be sweet."
+            icon = "fa-coffee"
+            title = "Good eats"
+            description = "Good places to eat [and Casi and Mike's recommendations] around Columbia."
+	    link = "food"
 
     # Aside section
 	[params.aside]
@@ -107,4 +94,4 @@ publishDir = "docs"
 	 [params.location]
 	 	latitude  = "38.9509"
 	 	longitude = "92.3288"
-		maps_api_key = ""
+		maps_api_key = "AIzaSyC6h50fCcFO3gb3XQFZ-TvJ8un8fNroQwY"

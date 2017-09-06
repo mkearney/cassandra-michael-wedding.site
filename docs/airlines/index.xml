@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airlines on Cassandra &amp; Michael Wedding</title>
+    <link>http://cassandra-michael-wedding.site/airlines/</link>
+    <description>Recent content in Airlines on Cassandra &amp; Michael Wedding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cassandra-michael-wedding.site/airlines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Airline Travel</title>
+      <link>http://cassandra-michael-wedding.site/airlines/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/airlines/</guid>
+      <description>Airports St. Louis Lambert International Airport (STL) 10701 Lambert International Blvd, St. Louis, MO 63145 Website: https://www.flystl.com/
+The St. Louis Airport is approximately 111 miles (or 1 hour and 42 minutes) from the wedding venue. While there is a shuttle service to and from Columbia for a reasonable fare, we recommend renting a car for your convenience.
+Rental Cars from Lambert International Airport https://www.flystl.com/parking-and-transport/rental-cars
+Kansas City International Airport (MCI) Kansas City, MO 64153 Website: http://www.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/airlines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/airlines/</guid>
+      <description>Airline Travel      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+    </item>
+    
+  </channel>
+</rss>

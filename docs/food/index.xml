@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foods on Cassandra &amp; Michael Wedding</title>
+    <link>http://cassandra-michael-wedding.site/food/</link>
+    <description>Recent content in Foods on Cassandra &amp; Michael Wedding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cassandra-michael-wedding.site/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good Eats</title>
+      <link>http://cassandra-michael-wedding.site/food/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/food/</guid>
+      <description>Restaurants and Good Eats Glenn’s Café 29 S 8th St, Columbia, MO 65201 Website: http://www.glennscafe.com/
+Located in the Tiger Hotel, “familiar Cajun-Creole &amp;amp; American dishes are the draw at this local eatery with a relaxed atmosphere.” We love their Jambalaya!
+Flat Branch Pub &amp;amp; Brewing 115 S 5th St, Columbia, MO 65201 Website: https://www.flatbranch.com/
+4-minute walk, this very popular destination is a “warehouse setting for house-brewed beer, a big selection of whiskey &amp;amp; upscale American pub fare.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/food/</guid>
+      <description>Good Eats      h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .main-container { max-width: 940px; margin-left: auto; margin-right: auto; } code { color: inherit; background-color: rgba(0, 0, 0, 0.04); } img { max-width:100%; height: auto; } .</description>
+    </item>
+    
+  </channel>
+</rss>
