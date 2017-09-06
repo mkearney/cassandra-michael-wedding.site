@@ -3,26 +3,6 @@
   
   <url>
     <loc>http://cassandra-michael-wedding.site/airlines/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cassandra-michael-wedding.site/details/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cassandra-michael-wedding.site/food/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cassandra-michael-wedding.site/hotels/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cassandra-michael-wedding.site/airlines/</loc>
   </url>
   
   <url>
@@ -39,13 +19,11 @@
   
   <url>
     <loc>http://cassandra-michael-wedding.site/airlines/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cassandra-michael-wedding.site/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,19 +34,16 @@
   
   <url>
     <loc>http://cassandra-michael-wedding.site/details/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cassandra-michael-wedding.site/food/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cassandra-michael-wedding.site/hotels/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

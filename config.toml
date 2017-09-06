@@ -46,7 +46,6 @@ publishDir = "docs"
 	[params.services]
 	    headline = "Schedule"
 
-
         [[params.services.list]]
             icon = "fa-info"
             title = "Details"
@@ -76,10 +75,10 @@ publishDir = "docs"
 		headline = "Check out our Registries"
 
 		[params.aside.button1]
-			text = "Target"
+			text = "img/target.png"
 			link = "https://www.target.com/gift-registry/gift/Cassandra-Michael-Kearney"
 		[params.aside.button2]
-			text = "BBBeyond"
+			text = "img/BBB.png"
 			link = "https://www.bedbathandbeyond.com:443/store/giftregistry/view_registry_guest.jsp?registryId=544904368&eventType=Wedding&pwsurl="
 
 	# Contact section

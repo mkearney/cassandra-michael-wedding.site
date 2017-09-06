@@ -1,0 +1,16 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside class="bg-dark">
+    <div class="container text-center">
+        <div class="call-to-action">
+            {{ with .Site.Params.aside.headline }}<h2>{{ . }}</h2>{{ end }}
+            {{ if and .Site.Params.aside.button1.link .Site.Params.aside.button1.text }}
+                 <a href="{{ .Site.Params.aside.button1.link }}"><img src="{{ .Site.Params.aside.button1.text }}" height=90 style="padding-right:15px;"></a>
+	    {{ end }}
+
+	    {{ if and .Site.Params.aside.button2.link .Site.Params.aside.button2.text }}
+                <a href="{{ .Site.Params.aside.button2.link }}"><img src="{{ .Site.Params.aside.button2.text }}" height=90 style="padding-left:15px;"></a>
+
+	    {{ end }}
+        </div>
+    </div>
+</aside>
