@@ -4,11 +4,11 @@ author: "Cassandra & Michael Wedding"
 draft: true
 output:
   prettydoc::html_pretty:
-    theme: architect
+    theme: hpster
 ---
 
 <style>
-header {
+.page-header {
 background-image: url(img/header2.jpeg) !important;
 }
 </style>

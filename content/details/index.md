@@ -8,7 +8,7 @@ output:
 ---
 
 <style>
-header {
+.page-header {
 background-image: url(img/header2.jpeg) !important;
 }
 </style>
