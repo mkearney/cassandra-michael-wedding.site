@@ -1,7 +1,6 @@
 ---
 title: "Hotels"
 author: "Cassandra & Michael Wedding"
-date: March 24th
 draft: true
 output:
   prettydoc::html_pretty:
@@ -10,7 +9,7 @@ output:
 
 <style>
 header {
-background-image: url(/Users/mwk/cassandra-michael-wedding.site/static/img/header2.jpeg) !important;
+background-image: url(img/header2.jpeg) !important;
 }
 </style>
 

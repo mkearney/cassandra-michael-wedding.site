@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cassandra-michael-wedding.site/details/</guid>
-      <description> Details    Details Cassandra &amp;amp; Michael Wedding March 24th   Wedding  Time: 5:00 PM Day: Saturday, March 24, 2018 Attire: Semiformal Adult reception   Venue  Where: The Tiger Hotel Address: 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888       (function () { var script = document.createElement(&#34;script&#34;); script.type = &#34;text/javascript&#34;; script.src = &#34;https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#34;; document.getElementsByTagName(&#34;head&#34;)[0].appendChild(script); })();    </description>
+      <description>Details    Details Cassandra &amp;amp; Michael Wedding    header { background-image: url(img/header2.jpeg) !important; }  Wedding  Time: 5:00 PM Day: Saturday, March 24, 2018 Attire: Semiformal Adult reception   Venue  Where: The Tiger Hotel Address: 23 S 8th St, Columbia, MO 65201 Phone: (573) 875-8888       (function () { var script = document.createElement(&#34;script&#34;); script.type = &#34;text/javascript&#34;; script.src = &#34;</description>
     </item>
     
   </channel>

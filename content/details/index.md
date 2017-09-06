@@ -1,13 +1,17 @@
 ---
 title: "Details"
 author: "Cassandra & Michael Wedding"
-date: March 24th
 draft: true
 output:
   prettydoc::html_pretty:
     theme: architect
 ---
 
+<style>
+header {
+background-image: url(img/header2.jpeg) !important;
+}
+</style>
 
 ### Wedding
 - Time: 5:00 PM
