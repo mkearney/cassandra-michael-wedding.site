@@ -19,9 +19,9 @@ publishDir = "docs"
 
 	[params.navigation.links]
 		about     = "Details"
-		services  = "Schedule"
-		portfolio = "Contact"
-		contact   = "Location"
+		services  = "Info"
+		portfolio = "Story"
+		contact   = "Contact"
 
 	# Hero section
 	[params.hero]
