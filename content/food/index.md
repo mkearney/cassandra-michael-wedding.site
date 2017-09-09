@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<stle>
+<style>
 .page-header {
 background-image: url(img/header2.jpeg) !important;
 }
