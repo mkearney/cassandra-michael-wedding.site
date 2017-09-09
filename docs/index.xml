@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassandra &amp; Michael Wedding</title>
+    <link>http://cassandra-michael-wedding.site/</link>
+    <description>Recent content on Cassandra &amp; Michael Wedding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://cassandra-michael-wedding.site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/airlines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/airlines/</guid>
+      <description>Airline Travel   Airline Travel Cassandra &amp;amp; Michael Wedding   .page-header { background-image: url(img/header2.jpeg) !important; } h1, h2, h3, h4, p, ul li, ul { text-align: center; color: #555; } h1.project-name { font-size: 2.5em; margin-top: 10px; padding-top: 20px; color: white; } h4.author.project-author a { color: #f3f3f3; font-size: 1.35em; } .main-content h3 { color: black; } ul { list-style-type: none; } p { max-width: 500px; margin-left: auto; margin-right: auto; } ul li { margin-left: -2px; padding: 5px; } html, body { font-family: Georgia; }  St.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/details/</guid>
+      <description>Details   Details Cassandra &amp;amp; Michael Wedding   .page-header { background-image: url(img/header2.jpeg) !important; } h1, h2, h3, h4, p, ul li, ul { text-align: center; color: #555; } .main-content h2, .main-content h3 { color: black; } h1.project-name { font-size: 2.5em; margin-top: 10px; padding-top: 20px; color: white; } h4.author.project-author a { color: #f3f3f3; font-size: 1.35em; } .main-content h3 { color: black; } ul { list-style-type: none; } p { max-width: 500px; margin-left: auto; margin-right: auto; } ul li { margin-left: -2px; padding: 5px; } html, body { font-family: Georgia; }  Wedding Ceremony Time: 5:00 PM</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/food/</guid>
+      <description>Good Eats   Good Eats Cassandra &amp;amp; Michael Wedding   .page-header { background-image: url(img/header2.jpeg) !important; } h1, h2, h3, h4, p, ul li, ul { text-align: center; color: #555; } h1.project-name { font-size: 2.5em; margin-top: 10px; padding-top: 20px; color: white; } h4.author.project-author a { color: #f3f3f3; font-size: 1.35em; } .main-content h3 { color: black; } ul { list-style-type: none; } p { max-width: 500px; margin-left: auto; margin-right: auto; } ul li { margin-left: -2px; padding: 5px; } html, body { font-family: Georgia; }  Glenn’s Café Address: 29 S 8th St, Columbia, MO 65201</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://cassandra-michael-wedding.site/hotels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cassandra-michael-wedding.site/hotels/</guid>
+      <description>Hotels   Hotels Cassandra &amp;amp; Michael Wedding   .page-header { background-image: url(img/header2.jpeg) !important; } h1, h2, h3, h4, p, ul li, ul { text-align: center; color: #555; } h1.project-name { font-size: 2.5em; margin-top: 10px; padding-top: 20px; color: white; } h4.author.project-author a { color: #f3f3f3; font-size: 1.35em; } .main-content h3 { color: black; } ul { list-style-type: none; } p { max-width: 500px; margin-left: auto; margin-right: auto; } ul li { margin-left: -2px; padding: 5px; } html, body { font-family: Georgia; }  The Tiger Hotel (Wedding Venue) Address: 23 S 8th St, Columbia, MO 65201</description>
+    </item>
+    
+  </channel>
+</rss>
