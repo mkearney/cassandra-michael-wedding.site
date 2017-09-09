@@ -38,12 +38,13 @@ a:focus {
 }
 
 #about a {
-    color: rgba(52, 52, 52, .7);
+    color: #208d99;
 }
 
 #about a:hover,
 #about a:focus {
     color: #fff;
+    background-color: #dd4422;
 }
 
 h1,
