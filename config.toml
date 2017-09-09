@@ -26,7 +26,7 @@ publishDir = "docs"
 	# Hero section
 	[params.hero]
 		slogan     = "Cassandra Bird<br>&<br>Michael Kearney"
-		subtitle   = "March 24"
+		subtitle   = "March 24, 2018"
 		buttonText = "Details"
 
 	# About section
@@ -65,7 +65,7 @@ publishDir = "docs"
         [[params.services.list]]
             icon = "fa-plane"
             title = "Airlines"
-            description = "Airline options (i.e., Columbia, Kansas City, St. Lous)"
+            description = "Airline options (i.e., Columbia, Kansas City, St. Louis)"
 	    link = "airlines"
 
         [[params.services.list]]
