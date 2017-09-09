@@ -48,7 +48,7 @@ font-family: Georgia;
 }
 </style>
 
-## Wedding
+## Wedding Ceremony
 Time: 5:00 PM
 
 Day: Saturday, March 24, 2018
@@ -57,11 +57,9 @@ Attire: Semiformal
 
 Adult reception
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
-## Venue
+## Wedding Venue
 Where: The Tiger Hotel
 
 Address: 23 S 8th St, Columbia, MO 65201

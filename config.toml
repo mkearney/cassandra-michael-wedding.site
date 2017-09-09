@@ -19,14 +19,14 @@ publishDir = "docs"
 
 	[params.navigation.links]
 		about     = "Details"
-		services  = "Info"
+		services  = "Information"
 		portfolio = "Story"
 		contact   = "Contact"
 
 	# Hero section
 	[params.hero]
 		slogan     = "Cassandra Bird<br>&<br>Michael Kearney"
-		subtitle   = "Our Wedding Website"
+		subtitle   = "March 24"
 		buttonText = "Details"
 
 	# About section
@@ -48,7 +48,7 @@ publishDir = "docs"
 
 	# Service section
 	[params.services]
-	    headline = "Info"
+	    headline = "Information"
 
         [[params.services.list]]
             icon = "fa-info"

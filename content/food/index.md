@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<style>
+<stle>
 .page-header {
 background-image: url(img/header2.jpeg) !important;
 }
@@ -50,46 +50,35 @@ Address: 29 S 8th St, Columbia, MO 65201
 
 Located in the Tiger Hotel, “familiar Cajun-Creole & American dishes are the draw at this local eatery with a relaxed atmosphere.” We love their Jambalaya!
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Flat Branch Pub & Brewing](https://www.flatbranch.com/)
 Address: 115 S 5th St, Columbia, MO 65201
 
 4-minute walk, this very popular destination is a “warehouse setting for house-brewed beer, a big selection of whiskey & upscale American pub fare.” REALLY good beer ☺
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
-
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Addison’s: An American Grill](http://www.addisonsgrill.com/)
 Address: 709 Cherry St, Columbia, MO 65201
 
 A 1-minute walk from the tiger hotel, Addison’s is a “convivial eatery, decorated in colorful paintings, boasts an eclectic menu & a happy hour.”
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Shakespeare’s Pizza](https://shakespeares.com/)
 Address: 225 S 9th St, Columbia, MO 65201
 
 A 4-minute walk from the Tiger Hotel, “this old-school popular pizza joint serves up traditional hand-tossed pies in a laid-back homey setting.” In our opinion, the pizza is best if you eat it there!
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Sparky’s Homemade Ice Cream](https://www.facebook.com/sparkyshomemade/)
 Address: S 9th St, Columbia, MO 65201
 
 If you are looking to stroll for dessert, Sparky’s is a 2-minute walk from the Tiger Hotel to a “Cozy shop serving housemade ice cream in a casual space with eclectic art on the walls.” Mike highly recommends the cinnamon ice cream, Casi prefers a classic chocolate!
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Kaldi’s Coffee](https://kaldiscoffee.com/)
 Address: 29 S 9th St #1, Columbia, MO 65201

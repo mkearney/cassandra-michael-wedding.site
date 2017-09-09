@@ -10,18 +10,19 @@
                     <hr class="light">
                 {{ end }}
                 {{ with .Site.Params.about.time }}
-                    <p class="text-faded"><strong>Time: </strong>{{ . | markdownify }}</p>
+                    <p><strong>Time: </strong>{{ . | markdownify }}</p>
                 {{ end }}
                 {{ with .Site.Params.about.date }}
-                    <p class="text-faded"><strong>Date: </strong>{{ . | markdownify }}</p>
+                    <p><strong>Date: </strong>{{ . | markdownify }}</p>
                 {{ end }}
                 {{ with .Site.Params.about.venue }}
-                    <p class="text-faded"><strong>Venue: </strong>{{ . | markdownify }}</p>
+                    <p><strong>Venue: </strong>{{ . | markdownify }}</p>
                 {{ end }}
 		{{ with .Site.Params.about.location }}
-                    <p class="text-faded"><strong>Location: </strong>{{ . | markdownify }}</p>
+                    <p><strong>Location: </strong>{{ . | markdownify }}</p>
                 {{ end }}
                 {{ with .Site.Params.about.buttonText }}
+		    <br>
                     <a href="details" class="btn btn-default btn-xl">{{ . }}</a>
                 {{ end }}
             </div>

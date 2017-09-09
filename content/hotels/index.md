@@ -60,9 +60,7 @@ King-- $162 a night
 
 Must book by January 24, 2018 to receive discounted rate
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [The Broadway Columbia—DoubleTree by Hilton Hotel](http://doubletree3.hilton.com/en/hotels/missouri/the-broadway-columbia-a-doubletree-by-hilton-hotel-COUTBDT/index.html)
 Address: 1111 E Broadway, Columbia, MO 65201
@@ -80,7 +78,7 @@ Double-- $149 a night
 
 King-- $149 a night
 
-Must book by 2/23
+Must book by February 23, 2018 to receive discounted rate
 
 <br>
 <p><img height="50" width="auto" src="img/cats.png" /></p>

@@ -50,18 +50,14 @@ font-family: Georgia;
 
 The St. Louis Airport is approximately 111 miles (or 1 hour and 42 minutes) from the wedding venue. While there is a shuttle service to and from Columbia for a reasonable fare, we recommend [renting a car](https://www.flystl.com/parking-and-transport/rental-cars) for your convenience. 
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Kansas City International Airport (MCI)](http://www.flykci.com/)
 Kansas City, MO 64153
 
 The Kansas City airport is approximately 146 miles (or 2 hours and 12 minutes) from the wedding venue. While there is shuttle service to and from Columbia for a reasonable fare, we recommend [renting a car](http://www.flykci.com/getting-to-from/ground-transportation/rental-car-services/) for your convenience. 
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [Columbia Regional Airport (COU)](https://www.flycou.com/)
 - Address: 11300 S Airport Dr, Columbia, MO 65201
@@ -70,9 +66,7 @@ The Columbia Airport is 13 miles (or 19 minutes) from the wedding
 venue. A little more expensive, but much closer to the wedding
 venue--though you may still want a [rental car](https://www.flycou.com/?page_id=98) or [taxi](https://www.flycou.com/?page_id=98). Columbia Regional Airport is served by American Airlines and United Airlines providing reliable and convenient direct, non-stop flights from Columbia to Dallas/Fort Worth, Chicago O'Hare and Denver International Airports!
 
-<br>
-<p><img height="50" width="auto" src="img/cats.png" /></p>
-<br>
+<p><img height="150" width="auto" src="img/divider.svg" /></p>
 
 ## [MOX Airport Shuttle (St. Louis and Kansas City)](http://moexpress.com/moxolrs/Pricing.aspx)
 Approximately $108 round trip

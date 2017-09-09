@@ -3,6 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
 
 html,
 body {
@@ -11,7 +12,7 @@ body {
 }
 
 body {
-    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    font-family: Roboto,'Helvetica Neue',Arial,sans-serif;
 }
 
 hr {
@@ -51,13 +52,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: Roboto, 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
-    margin-bottom: 20px;
-    font-size: 16px;
-    line-height: 1.5;
+    */margin-bottom: 20px;*/
+    font-size: 24px;
+    line-height: 1.1;
 }
 
 .bg-primary {
@@ -87,7 +88,7 @@ aside {
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: Roboto, 'Open Sans','Helvetica Neue',Arial,sans-serif;
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -96,7 +97,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand {
     text-transform: uppercase;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: Roboto, 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     color: #208d99;
 }
