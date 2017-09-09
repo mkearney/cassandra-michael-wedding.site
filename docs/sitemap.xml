@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/airlines/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/food/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/hotels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/airlines/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/details/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/food/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/hotels/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cassandra-michael-wedding.site/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
