@@ -7,7 +7,7 @@
       a:hover {
         text-decoration: none;
       }
-      
+
       a:hover h3 {
         text-decoration: underline;
       }
@@ -49,9 +49,11 @@
         {{ if .Site.Data.projects }}
             {{ partial "modals.html" . }}
         {{ end }}
-	
+
         {{ partial "js.html" . }}
 
-        {{ template "_internal/google_analytics.html" . }}
+     {{ template "_internal/google_analytics.html" . }}
+     <p>Special thanks to <a href="http://rusticheartrentals.com/" >Hayley Poli</a> for desiging our beautiful
+     wedding invitations</p>
     </body>
 </html>
